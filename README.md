@@ -8,4 +8,4 @@ Após a apresentação, esse [texto](open-source-software-policy.md) explora out
 
 ## Instruções
 
-Para display correto da apresentação em `.pptx` é necessário instalação das fontes [Montserrat](https://fonts.google.com/specimen/Montserrat) e [League Spartan](https://www.fontsquirrel.com/fonts/league-spartan).
+Para display correto da apresentação em `.pptx` é necessário instalação das fontes [Montserrat](https://fonts.google.com/specimen/Montserrat) e [League Spartan](https://www.theleagueofmoveabletype.com/league-spartan).
