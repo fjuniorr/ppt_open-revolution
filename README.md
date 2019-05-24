@@ -4,7 +4,7 @@ O objetivo dessa apresentação é traçar um breve panorama das principais prá
 
 O [mapa conceitual](https://en.wikipedia.org/wiki/Concept_map), feito no [Draw.io](https://www.draw.io/), está disponível [aqui](https://drive.google.com/file/d/1pRe5dyqajQNtg8rCXGF4J3yQUNM4nZ6h/view?usp=sharing).
 
-Após a apresentação, esse [texto](open-source-software-policy) explora outros aspectos específicos relacionados à iniciativas de software de código aberto e seu relacionamento com a Política de Governo Aberto.
+Após a apresentação, esse [texto](open-source-software-policy.md) explora outros aspectos específicos relacionados à iniciativas de software de código aberto e seu relacionamento com a Política de Governo Aberto.
 
 ## Instruções
 
