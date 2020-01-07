@@ -10,6 +10,8 @@ A [Fernanda Campagnucci](https://github.com/campagnucci)[^1] da [Prefeitura de S
 
 No entanto esse tema não entrou no [4º Plano de Ação Brasileiro](http://governoaberto.cgu.gov.br/no-brasil/planos-de-acao/4o-plano-de-acao-brasileiro) nem no [2º Plano de Ação do Município de São Paulo](https://www.prefeitura.sp.gov.br/cidade/secretarias/relacoes_internacionais/sao_paulo_aberta/index.php?p=260991).
 
+[Essa](https://github.com/government/best-practices/issues/32) discussão na comunidade de pessoas de Governo no GitHub também apresenta ótimos argumentos para o desenvolvimento aberto.
+
 ## Software de Código Aberto e Política de Código Aberto
 
 O [Portal do Software Público Brasileiro](https://softwarepublico.gov.br/social/spb/o-que-e-o-software-publico) é a principal iniciativa nacional que visa promover o compartilhamento de software visando atender às necessidades de modernização da administração pública brasileira. Os benefícios esperados são: economia dos recursos, independência de fornecedores, segurança, e compartilhamento do Conhecimento.
